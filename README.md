@@ -9,10 +9,16 @@
 
 ###
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://dev.to/slaterblack" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="slaterblack" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/slater black" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="slater black" height="30" width="40" /></a>
+</p>
 
+<p align="right"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=slaterblack" alt="slaterblack" /></a> </p>
 
 ###
-<h3>I use:</h3>
+<h3>My Languages and Tools:</h3>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="30" alt="Blender logo"  />
   <img width="12" />
@@ -31,7 +37,11 @@
 
 ###
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=slaterblack&show_icons=true&locale=en&layout=compact" alt="slaterblack" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=slaterblack&show_icons=true&locale=en" alt="slaterblack" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=slaterblack&" alt="slaterblack" /></p>
 ###
 
 <br clear="both">
