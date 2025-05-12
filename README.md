@@ -43,7 +43,8 @@
 ###
 
 <br clear="both">
+<img src="/assets/snake.svg" alt="An animation of snake eating the github user contribuitions (like snake game)" class="styles__Image-sc-19ug73m-1 fFdGRd">
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+<img src="ttps://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 
 ###
